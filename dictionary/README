@@ -1,0 +1,10 @@
+Dictionary take two input a. Dictionary b. Text document that need to be checked.  
+
+* Here a path to dictionary is needed in command line argument.
+* A dictionary should be like:-
+
+all
+add
+...
+
+where ... = list of other words
