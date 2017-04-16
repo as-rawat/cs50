@@ -1,4 +1,4 @@
-./server is 32- bit
+./server is 32-bit
 1. chmod the public -d to be global readable.
 2. Run server.
 3. Open browser with "localhost/cat.html".
